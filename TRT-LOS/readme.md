@@ -7,3 +7,18 @@
   <a href="https://pan.quark.cn/s/cba827bd9421">🤗 Dataset</a>
 </div>
 
+<p align="center">
+    <img src="./asset/trtlos.png" width="90%" height="90%">
+</p>
+
+<p align="center">
+    <img src="./asset/middlebury2014.png" width="90%" height="90%">
+</p>
+
+<p align="center">
+    <img src="./asset/trtlosrw.png" width="90%" height="90%">
+</p>
+
+<p align="center">
+    <img src="./asset/trtlosrw2.png" width="90%" height="90%">
+</p>
