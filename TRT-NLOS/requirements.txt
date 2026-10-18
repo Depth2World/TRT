@@ -1,0 +1,7 @@
+# Install a matching CUDA-enabled torch / torchvision pair first.
+numpy
+scipy
+opencv-python
+timm
+tqdm
+tensorboard
