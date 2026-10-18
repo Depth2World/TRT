@@ -41,6 +41,16 @@ TRT/
 └── README.md     # Project homepage
 ```
 
+
+## Pretrained models
+
+Download both models from [Quark Drive](https://pan.quark.cn/s/23463e95c2b3).
+
+| Model | Checkpoint | Architecture | Usage |
+| --- | --- | --- | --- |
+| TRT-LOS | `trt_los.pth` | 12 trt | [LOS setup, training and evaluation](TRT-LOS/readme.md) |
+| TRT-NLOS | `trt_nlos.pth` | Light denoiser + NLOST, 1 trt | [NLOS setup, training and inference](TRT-NLOS/readme.md) |
+
 ##  Contact
 
 For questions or collaborations, please contact:\
