@@ -42,3 +42,11 @@ Here is the thumbnail：
 <p align="center">
     <img src="./asset/trtlosrw2.png" width="75%" height="75%">
 </p>
+
+## Pretrained model
+
+Download **`trt_los.pth`** from [the shared TRT model folder](https://pan.quark.cn/s/23463e95c2b3).
+The same folder contains `trt_nlos.pth` for the separate NLOS task.
+
+The supplied LOS checkpoint contains 12 trt blocks. 
+
